@@ -10,7 +10,7 @@
 
 #
 
-<div style="display:flex; justify-content: space-between;">
+<div style="display: flex;" align="center">
     <img src="event-form.png" alt="Imagem 1" width="30%">
     <img src="form1.png" alt="Imagem 2" width="30%">
     <img src="form2.png" alt="Imagem 3" width="30%">
