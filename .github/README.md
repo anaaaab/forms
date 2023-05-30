@@ -2,10 +2,6 @@
   
 <p align="justify"> These were some projects proposed by Rocketseat, with the goal of creating three forms using HTML and CSS. </p>
 
-- [Event Creation Form](https://anaaaab.github.io/event-form)
-- [Mentoring Scheduling Form](https://anaaaab.github.io/scheduling-form)
-- [Mentoring Assessment Form](https://anaaaab.github.io/assessment-form)
-
 #
 
 #### <h3 align="center">**That project was developed with** </strong></h3>
